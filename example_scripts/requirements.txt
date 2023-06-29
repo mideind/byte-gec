@@ -1,0 +1,11 @@
+### For the noising module 
+torch
+tokenizer
+islenska
+reynir
+
+### For the T5 model training
+datasets
+numpy
+pandas
+transformers
